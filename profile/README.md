@@ -1,5 +1,5 @@
 <p align="center">
-   <p><img  height="200" src="https://avatars.githubusercontent.com/u/119142458?s=200&v=4"></p>
+   <p align="center"><img height="200" src="https://avatars.githubusercontent.com/u/119142458?s=200&v=4"></p>
   <h1 align="center">来玩</h1>
   <div align="center">
     <a href="https://twitter.com/cwida" target="_blank">

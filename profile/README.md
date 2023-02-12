@@ -4,8 +4,6 @@
   <div align="center">
     <a href="https://twitter.com/cwida" target="_blank">
       <img alt="twitter" src="https://img.shields.io/twitter/follow/cwida?color=%231D9BF0&label=cwida&logo=Twitter&style=flat-square"></a>
-    <a href="https://t.me/dahaiquanshishui" target="_blank">
-      <img alt="telegram" src="https://img.shields.io/badge/chat-telegram-blueviolet?style=flat-square&logo=Telegram"></a>
      <a href="https://github.com/onlivewin/livewin-live/releases" target="_blank">
       <img alt="GitHub downloads" src="https://img.shields.io/github/downloads/onlivewin/livewin-live/total.svg?style=flat-square"></a>
     <a href="https://github.com/onlivewin/livewin-live/commits" target="_blank">
